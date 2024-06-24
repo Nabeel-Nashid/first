@@ -38,7 +38,7 @@ function Mail() {
   };
   return (
     <div className="flex justify-center items-center bg-secondary-light p-10">
-      <div className="w-96 rounded-lg bg-white p-5">
+      <div className="w-[650px] rounded-lg bg-white p-5">
         <div className="flex flex-col items-center">
           <h1 className="font-bold text-secondary-dark md:text-4xl text-2xl">
             Get In Touch
