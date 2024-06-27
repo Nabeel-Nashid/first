@@ -10,12 +10,12 @@ import Services from "./Components/Services";
 function App() {
   return (
     <div className="App">
-        <Navbar />
-        <Banner />
-        <Services/>
-        <Mail/>
-        <Experiance/>
-        <Footer/>
+      <Navbar />
+      <Banner />
+      <Services />
+      <Mail />
+      <Experiance />
+      <Footer />
     </div>
   );
 }
